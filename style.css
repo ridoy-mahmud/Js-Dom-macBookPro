@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#line1{
+  height:2px;
+  border-top:2px solid black;
+  border-bottom:2px solid black;
+}
+#line2{
+  height:2px;
+  border-top:2px solid black;
+  border-bottom:2px solid black;
+}
